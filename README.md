@@ -1,5 +1,5 @@
 # Project-1 Proposal 
-Project Title: Reducing NSW Road Crashes
+Project Title: NSW Road Crashes
 
 Team Members:
 Peter Kapsalis,
