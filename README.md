@@ -16,6 +16,9 @@ How can we reduce the amount of road crashes in New South Wales?
 
 Rough Breakdown of Tasks: Answer the sub questions below through data visualisation
 
+What's happening on the roads of Australia? Which state has the highest number of accidents?
+What do traffic cameras give us and how do they correlation with crash on a road?
+
 Does lighting lead to decrease in road crash?
 
 Does higher speed limit lead to increase in road crash?
