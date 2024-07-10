@@ -18,7 +18,7 @@ Rough Breakdown of Tasks: Answer the sub questions below through data visualisat
 
 What is happening on the roads of Australia? 
 
-What kind resalt do the traffic cameras?
+What kind resalt do the traffic cameras give?
 
 Does lighting lead to decrease in road crash?
 
